@@ -1,13 +1,12 @@
 # Patrimônio User Interface
-Aplicação criada durante a disciplina de Construção de Página Web IV.
+Aplicação criada para consumir APIRest de patrimônio.
 ### Detalhes da aplicação
-Single Page App tem seguintes características:  
-* Linguagem Html
-* Utiliza bootstrap
-* Utilizando Angular JS
-* Gerenciador de dependências BOWER
+Esta projeto foi cirado utilizando Angular CLI, sendo necessario instalar o mesmo.
+
+### Servidor 
+Para rodar a aplicação entre na raiz do projeto e rode o comando  ng serve
 
 ### Clonando o projeto
 ```
-git clone https://github.com/vfbellaver/siscadif
+git clone https://github.com/vfbellaver/patrimonio-ui
 
